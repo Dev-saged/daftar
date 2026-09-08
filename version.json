@@ -1,4 +1,11 @@
 {
-  "version": "v1.0.0",
-  "release_url": "https://github.com/Dev-saged/daftar/releases"
+  "version": "v1.3.0",
+  "release_url": "https://github.com/Dev-saged/daftar/releases/tag/v1.3.0",
+  "apk_url": "https://github.com/Dev-saged/daftar/releases/download/v1.3.0/abadlah.apk",
+  "changelog": [
+    "طباعة فاتورة ملونة تطابق المعاينة",
+    "حذف وتعديل الديون والدفعات",
+    "نظام تحديثات متكامل مع تحميل مباشر",
+    "تصميم أيقونات محسّن"
+  ]
 }
